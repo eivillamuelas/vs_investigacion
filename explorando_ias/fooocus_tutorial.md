@@ -1,21 +1,3 @@
-[← Volver al índice](/semanas/README.md)
-
-*Semana 2*
-
-# 🖼️ Generación de imágenes - Modelos de difusión
-
-![cat](https://github.com/eeenajenaciones/backend/assets/157328061/e8c0fd73-b0d6-455c-9fcc-9a316318bfdd)
-
-## 🐍 Python básico
-
-Colab: [Python básico](https://colab.research.google.com/drive/1fpSmaQexwrUBF1QYspa8qoFiOL84Mx-o?usp=sharing)
-
-🎁 ➔ [Grids de imágenes](https://colab.research.google.com/drive/1PXcGqst1YSY-Hjz9lYFugJEJQpKFW5YJ?usp=sharing)
-
-## 🖼️ Generación de imágenes 
-
-Colab: [Generación de imágenes (SDXL)](https://colab.research.google.com/drive/1viT3anI3z6lv_y2FoMmmA6W1ECEaiR_W?usp=sharing)
-
 # 🎯 Fooocus (SDXL)
 
 ## Modelos de difusión
@@ -102,5 +84,3 @@ Puedes rellenar una imagen en el último apartado `INPAINT OR OUTPAINT` pitando 
 También puedes rellenar la imagen hacia fuera seleccionando la dirección `Left`, `Right`, `Top` y `Bottom`
 
 ![gradio](/archivos/outpainting.png)
-
-## **Enunciado semana 2** ➔ [Bourriadas ciclotímicas](/semanas/enunciados/bourriadas_ciclotimicas.md)
