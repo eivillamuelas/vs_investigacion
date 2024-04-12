@@ -2,7 +2,7 @@
 
 ## 1. Encender Fooocus en Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-QIIehfHQB5-hUafLlAMGcpP6BQ2jOJV?usp=sharing)
 
-EL primer paso es darle al play para encender instalar y ejecutar Fooocus
+El primer paso es darle al play para encender instalar y ejecutar Fooocus
 
 ![play](/archivos/play.png)
 
