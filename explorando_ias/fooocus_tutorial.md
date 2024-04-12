@@ -57,7 +57,7 @@ También se pueden usar imágenes de referencia en la pestaña `IMAGE PROMPT` pa
 
 ### ⚠️ERROR⚠️
 
-Seguramente el cuaderno de error cuando cambies de herramienta porque has cargado demasiada memoria. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
+Seguramente el cuaderno de error cuando cambies de herramienta porque se ha cargado demasiada memoria *(es como cuando tienes abierto photoshop, illustratory premier, sale mal)*. La manera de arreglarlo es volver al colab y volver a darle al play para que se cargue de nuevo el cuaderno hasta que aparezca de nuevo el link. Ten cuidado porque los ajustes que hagas previos se perderán.
 
 ![gradio](/archivos/error.png)
 ![gradio](/archivos/error2.png)
